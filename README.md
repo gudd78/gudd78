@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gudd78
-- 👀 I’m interested in Automation testing
+- 👋 Hi, I’m Guddu Pinjarkar
+- 👀 I’m interested in web mobile Automation/Manual testing
 - 📫 How to reach me at https://www.linkedin.com/in/guddu-pinjarkar-1a08a8187
 
 <!---
